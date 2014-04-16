@@ -1,4 +1,6 @@
-
+<style type="text/css">
+	td { border: 1px solid black}
+</style>
 <div id="container" >
 		<div style="float:right ; width:80%">
 			<div id="News">
