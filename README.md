@@ -1,3 +1,4 @@
+```html
 <div id="container" >
 		<div style="float:right ; width:80%">
 			<div id="News">
@@ -32,3 +33,4 @@
 			<a href="https://docs.google.com/document/d/1geCW3zrJhXeO767fKsLLr-ciuwhkRIWTdIdD5NwNOUU/edit?usp=sharing">New html assignments</a>
 		</div>
 	</div>
+```
